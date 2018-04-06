@@ -7,14 +7,16 @@ to be able to exports functions that RDS Spy calls from C#
 I've used RDS Spy [documentation](http://rdsspy.com/download/pdf/spyapi.pdf) for writing plugins and [stackedit.io](https://stackedit.io/) to generate this readme 
 
 Because I don't know Delphi nor Pascal I had to google how syntax between Delphi and C# differs. To make easier for others to do the same, you have a table here on what is diferent (what you need to write a basic plugin, because a lot is missing)
+
+
 | Delphi | C# |
-|--|--|
-| word | ushort |
-| Pchar | string |
-| integer | int |
-| ss | ss |
-| = | == |
-| <> | != |
+| ------------- | ------------- |
+| word | ushort  |
+| Pchar | string  |
+| integer | int  |
+| ss | ss  |
+| = | ==  |
+| <> | !=  |
 |  |  |
 |  |  |
 |  |  |
