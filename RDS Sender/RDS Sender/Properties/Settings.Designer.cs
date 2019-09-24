@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PS_Decoder.Properties
+namespace RDS_Sender.Properties
 {
 
 
