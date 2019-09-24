@@ -1,9 +1,0 @@
-C:\Program Files (x86)\RDS Spy\plugins\RDS Sender.pdb
-C:\Users\Mitja\Documents\Visual Studio 2017\Projects\SDR\XDR-GTK Server\new\RDS Sender\RDS Sender\obj\Debug\RDS Sender.csprojAssemblyReference.cache
-C:\Users\Mitja\Documents\Visual Studio 2017\Projects\SDR\XDR-GTK Server\new\RDS Sender\RDS Sender\obj\Debug\RDS_Sender.Properties.Resources.resources
-C:\Users\Mitja\Documents\Visual Studio 2017\Projects\SDR\XDR-GTK Server\new\RDS Sender\RDS Sender\obj\Debug\RDS Sender.csproj.GenerateResource.cache
-C:\Users\Mitja\Documents\Visual Studio 2017\Projects\SDR\XDR-GTK Server\new\RDS Sender\RDS Sender\obj\Debug\RDS Sender.csproj.CoreCompileInputs.cache
-C:\Users\Mitja\Documents\Visual Studio 2017\Projects\SDR\XDR-GTK Server\new\RDS Sender\RDS Sender\obj\Debug\RDS Sender.pdb
-C:\Program Files (x86)\RDS Spy\plugins\RDS Sender.dll.config
-C:\Program Files (x86)\RDS Spy\plugins\RDS Sender.dll
-C:\Users\Mitja\Documents\Visual Studio 2017\Projects\SDR\XDR-GTK Server\new\RDS Sender\RDS Sender\obj\Debug\RDS Sender.dll
