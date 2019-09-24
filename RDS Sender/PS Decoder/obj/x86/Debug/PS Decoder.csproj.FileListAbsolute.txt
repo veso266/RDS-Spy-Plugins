@@ -1,8 +1,0 @@
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\bin\x86\Debug\RDS Sender.dll.config
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\bin\x86\Debug\RDS Sender.dll
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\bin\x86\Debug\RDS Sender.pdb
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\obj\x86\Debug\PS_Decoder.Form1.resources
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\obj\x86\Debug\PS_Decoder.Properties.Resources.resources
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\obj\x86\Debug\PS Decoder.csproj.GenerateResource.Cache
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\obj\x86\Debug\RDS Sender.dll
-C:\Users\Mitja\Documents\Visual Studio 2015\Projects\RDSSpy\PS Decoder\PS Decoder\obj\x86\Debug\RDS Sender.pdb
